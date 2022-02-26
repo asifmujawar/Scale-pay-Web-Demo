@@ -1,0 +1,24 @@
+.footer-container{
+    padding: 50px;
+    background-color: rgb(55, 115, 226);
+    color: white;
+    margin-top: 30px;
+}
+
+.footer-container .row{
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container .row .col-lg-3 .col-lg-2{
+    margin: 5px;
+}
+
+.footer-container ul{
+    list-style: none;
+    padding: none;
+}
+
+.footer-container ul li{
+    margin-top: 20px;
+}

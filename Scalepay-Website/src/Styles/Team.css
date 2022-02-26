@@ -1,0 +1,41 @@
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    margin: 0 20px;
+  }
+  
+  .cart-cont{
+      text-align: center;
+      border: 1px solid blue;
+      border-radius: 10px;
+      overflow: hidden;
+  }
+  .cart-cont p{
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+  
+  .cart-cont img{
+      width: 50%;
+      border-radius: 100px;
+      margin: auto;
+      border: 2px solid white;
+  }
+
+  .cart-cont .img-div{
+      padding: 8px;
+      background-color: rgb(0, 132, 255);
+
+  }
+
+  .cart-cont .text-div{
+      padding: 8px;
+  }
